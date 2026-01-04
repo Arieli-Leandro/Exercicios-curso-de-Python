@@ -1,2 +1,4 @@
-# Exerc-cios-curso-de-Python
-Exercícios em Python desenvolvidos durante meus estudos, com foco em lógica de programação e fundamentos da linguagem.
+#Exercícios do curso de Python 🐍📘
+
+Neste repositório estará todos os exercícios e mini projetos desenvolvidos ao longo do curso de Python
+Com o objetivo de me aprofundar mais na linguagem com foco na estruturação do código e lógica de programação
